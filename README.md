@@ -32,7 +32,7 @@ as we are installed PyMySQL.
 2. pip install gunicorn
 3. pip freeze requirements.txt
 4. Procfile
-   ** web: gunicorn app:app
+   * web: gunicorn app:app
 5. git init
 6. git add .
 7. git commit -m "Initial commmit"
