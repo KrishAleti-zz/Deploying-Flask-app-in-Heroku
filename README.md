@@ -16,8 +16,7 @@ https://github.com/KrishAleti/My-Resources/tree/main/Flask_Database_Heroku
 
 3. If we get module not found error for mysql db, we can are use pymysql
    * https://stackoverflow.com/questions/454854/no-module-named-mysqldb
-   * we need to edit the SQLAlchemy URL schema like this: mysql+pymysql://username:passwd@host/database 
-as we are installed PyMySQL.
+   * We need to edit the SQLAlchemy URL schema like this: mysql+pymysql://username:passwd@host/database as we are installed PyMySQL.
 
 4. Defining the class to create the table and defining the columns of the taable:-
    * https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/#a-minimal-application
