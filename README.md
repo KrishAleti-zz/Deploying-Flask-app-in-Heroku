@@ -33,7 +33,7 @@ https://github.com/KrishAleti/My-Resources/tree/main/Flask_Database_Heroku
 4. Procfile
    * web: gunicorn app:app
 5. git init
-6. git add .
+6. git add
 7. git commit -m "Initial commmit"
 8. heroku create appname
 9. git remote -v
